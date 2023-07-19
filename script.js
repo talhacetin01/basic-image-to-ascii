@@ -27,7 +27,7 @@ function draw(){
             
             if (c == ' ') asciiImage += '&nbsp;';
             else asciiImage += c;
-            
+            //test line
             
         }
         asciiImage += '<br/>';
